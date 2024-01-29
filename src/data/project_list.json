@@ -1,0 +1,140 @@
+{
+    "contact": [
+        {"phone": "010.3030.1734"},
+        {"email": "sseung0000@naver.com"}
+    ],
+    "infoLink": [
+        {"notion": "https://seunggry.notion.site/seunggry/Seung-Yeon-Choi-0ed5ec339a5e4d1fbdc8ff958980072c"},
+        {"github": "https://github.com/sseunggry"}
+    ],
+    "work": [
+        {
+            "client": "DB손해보험",
+            "name": "적응형 웹 사이트 리뉴얼",
+            "period": "23.04 ~ 24.02",
+            "thumbImg": "main_thumb_01.jpg",
+            "desc": "DB손해보험 보험 상품(자동차, 장기, 일반) 전체 페이지를 리뉴얼 작업을 진행합니다.",
+            "link": "www"
+        },
+        {
+            "client": "하나증권",
+            "name": "WTS 고도화 작업",
+            "period": "22.11 ~ 23.01",
+            "thumbImg": "project_thumb_work_02.jpg"
+        },
+        {
+            "client": "신한카드",
+            "name": "정보보호 통합신청 업무시스템 구축",
+            "period": "22.09 ~ 23.10",
+            "thumbImg": "project_thumb_work_03.jpg"
+        },
+        {
+            "client": "LGU+",
+            "name": "디지털 카탈로그 구축",
+            "period": "22.03 ~ 22.06",
+            "thumbImg": "project_thumb_work_04.jpg"
+        },
+        {
+            "client": "대신증권",
+            "name": "MyData 플랫폼 구축",
+            "period": "21.11 ~ 22.01"
+        },
+        {
+            "client": "신한카드",
+            "name": "PayDays 플랫폼 구축",
+            "period": "21.09 ~ 21.11",
+            "thumbImg": "project_thumb_work_06_1.jpg",
+            "link": "https://paydays.shinhancard.com/myincome/main"
+        }
+    ],
+    "personal": [
+        {
+            "client": "넷플릭스",
+            "name": "리액트 웹사이트 퍼블리싱",
+            "period": "24.01 ~ 24.02",
+            "thumbImg": "project_thumb_person_01_.jpg",
+            "link": "https://sseunggry.github.io/netflix/"
+        },
+        {
+            "client": "피자알볼로",
+            "name": "리액트 모바일웹 퍼블리싱",
+            "period": "23.11 ~ 24.01",
+            "thumbImg": "project_thumb_person_02.jpg",
+            "link": "https://sseunggry.github.io/pizzahut/"
+        },
+        {
+            "client": "워크위즈",
+            "name": "반응형 퍼블리싱",
+            "period": "22.06 ~ 22.08",
+            "thumbImg": "project_thumb_person_03_.jpg",
+            "link": "https://sseunggry.github.io/workwiz/main/index.html"
+        },
+        {
+            "client": "한화케미칼",
+            "name": "반응형 퍼블리싱",
+            "period": "21.04 ~ 21.07",
+            "thumbImg": "project_thumb_person_04.jpg",
+            "link": "https://sseunggry.github.io/hanwha/"
+        }
+    ],
+    "design": [
+        {
+            "client": "앤알캐피탈",
+            "name": "반응형 사이트 구축",
+            "period": "20.11 ~ 21.01",
+            "link": "https://www.nrcapital.co.kr/"
+        },
+        {
+            "client": "신세계 프로퍼티",
+            "name": "스타필드 안성점 구축",
+            "period": "20.07 ~ 20.10"
+        },
+        {
+            "client": "버즈빌",
+            "name": "반응형 사이트 구축",
+            "period": "20.03 ~ 20.07"
+        },
+        {
+            "client": "라온시큐어",
+            "name": "반응형 사이트 구축",
+            "period": "19.11 ~ 20.02"
+        },
+        {
+            "client": "신세계 프로퍼티",
+            "name": "스타필드 명지, 부천점 구축",
+            "period": "19.08 ~ 19.10"
+        },
+        {
+            "client": "푸르넷",
+            "name": "초등, 중등 사이트 리뉴얼",
+            "period": "19.05 ~ 19.07"
+        },
+        {
+            "client": "LG U+",
+            "name": "스마트 드론 사이트 구축",
+            "period": "19.05"
+        },
+        {
+            "client": "오렌지라이프",
+            "name": "프로모션 페이지 운영",
+            "period": "19.02 ~ 19.04"
+        },
+        {
+            "client": "SKT",
+            "name": "상품페이지 리뉴얼",
+            "period": "18.11 ~ 19.01"
+        },
+        {
+            "client": "슈프리마",
+            "name": "반응형 사이트 리뉴얼",
+            "period": "18.07 ~ 18.11",
+            "link": "https://www.supremainc.com/ko/"
+        },
+        {
+            "client": "피자알볼로",
+            "name": "반응형 사이트 리뉴얼",
+            "period": "18.05 ~ 18.07",
+            "link": "https://www.pizzaalvolo.co.kr/"
+        }
+    ]
+}
